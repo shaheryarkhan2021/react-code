@@ -7,7 +7,7 @@ Welcome to IntelliStore! This store will prepare you for the summer with fun and
 
 In order to start, please clone this repository with 
 ```shell
-git clone https://github.com/Talentrator/IntelliStor-Vue
+git clone https://github.com/Talentrator/IntelliStor-React
 ```
 On Github, create a *private* repository. In order to add this to your local git, run
 ```shell
@@ -18,7 +18,7 @@ In order for us to be able to rate your submission, please add "@wittmaxi" and "
 ### Your Tasks
 
 1) Display all store elements: \
-    the elements are defined as `items` in `App.vue` \
+    the elements are defined as `items` in `App.js` \
     make sure that adding elements in the array also displays them on the website without needing additional code
 3) Pick a better set of Colors for the page \
     and integrate them with Bootstrap-Vue
