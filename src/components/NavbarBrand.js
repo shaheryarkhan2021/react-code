@@ -1,5 +1,4 @@
 import NavbarBrand from './NavbarBrand';
-import './App.css';
 
 function navbar() {
   return (
